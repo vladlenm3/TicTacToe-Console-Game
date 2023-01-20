@@ -14,7 +14,7 @@ I used C++ for this project and multiple libraries. STL library <vector>, librar
 # Useful Websites
 - [C++ Classes and Objects](https://www.w3schools.com/cpp/cpp_classes.asp#:~:text=C%2B%2B%20is%20an%20object%2Doriented,such%20as%20drive%20and%20brake.)
 - [C++ Stack Overflow](https://stackoverflow.com/questions/tagged/c%2B%2B)
-- [C++ Essential Training](https://stackoverflow.com/questions/tagged/c%2B%2B](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801)
+- [C++ Essential Training](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801)
 
 # Future Work
 - Change the winner function. Use loops to check if the user won instead of hardcoded version that I have now.
